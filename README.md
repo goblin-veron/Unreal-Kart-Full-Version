@@ -235,4 +235,4 @@ This repository serves as the official landing page for Unreal Kart. The softwar
 **Get the most recent version of Unreal Kart today!**
 
 ---
-**Last updated:** 2026-09-22 20:52:56 UTC
+**Last updated:** 2026-09-22 23:28:33 UTC
